@@ -1,0 +1,20 @@
+{
+  "1": {
+    "name": "Ethereum",
+    "chainId": 1,
+    "caip10": "eip155:1",
+    "eip3770": "eth"
+  },
+  "5": {
+    "name": "Goerli",
+    "chainId": 5,
+    "caip10": "eip155:5",
+    "eip3770": "gor"
+  },
+  "137": {
+    "name": "Polygon",
+    "chainId": 137,
+    "caip10": "eip155:137",
+    "eip3770": "poly"
+  }
+}
